@@ -1,2 +1,3 @@
-Machine.Specifications.Runner.Console x
+Machine.Specifications.Runner.Console 0.9.1
 -----------------------------
+-improved reporting in case of unhandled exception: instead of only Exception.Message, entire Exception with stack-trace is printed to the console.
